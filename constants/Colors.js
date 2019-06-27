@@ -21,4 +21,5 @@ export default {
   primaryGradientStart: '#1E2542',
   primaryGradientEnd: '#16162C',
   headingColor: '#fff',
+  greyColor: '#ccc',
 };
